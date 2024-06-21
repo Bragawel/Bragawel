@@ -1,16 +1,13 @@
-## Hi there 👋
+## Bem vindos ao meu perfil 
 
-<!--
-**Bragawel/Bragawel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Sou Wesley Braga
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭 Atualmente estou trabalhando como entregador
+- 🌱 Atualmente estou aprendendo linguagem de programação nas aulas de Tecnologia;
+- 👯 Sou solidário com meus colegas;
+- 📫 meu contato: 00001088953682p@al.educacao.sp.gov.br
+- ⚡ Criosidade sobre mim: gosto de fazer novos amizades, aprender novos conhecimentos.
+
